@@ -17,3 +17,7 @@ javac.exe ist der Compiler, java.exe ist das ausführende Programm (Interpreter)
 ## Was ist eine IDE?
 
 Eine IDE steht für *Integrated Development Environment* (integrierte Entwicklungsumgebung) und ist eine Software-Anwendung, die Entwicklern hilft, Software zu erstellen, zu bearbeiten, zu testen und zu debuggen. Eine IDE bietet in der Regel eine Sammlung von Werkzeugen und Funktionen an einem zentralen Ort, um den Entwicklungsprozess zu erleichtern.
+
+## Welche IDE soll ich auswählen?
+
+Ich habe mich für die IDE, IntelliJ IDEA-Plattform entschieden, da sie eine von den besten Softwares ist und es hat auch eine kostenlose Version.

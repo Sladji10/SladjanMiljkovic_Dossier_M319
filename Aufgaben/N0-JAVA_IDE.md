@@ -20,9 +20,7 @@ Eine IDE steht für *Integrated Development Environment* (integrierte Entwicklun
 
 ## Welche IDE soll ich auswählen?
 
-Ich habe mich für die IDE, IntelliJ IDEA-Plattform entschieden, da sie eine von den besten Softwares ist und es hat auch eine kostenlose Version.
-
-<img src="https://github.com/Sladji10/SladjanMiljkovic_Dossier_M319/assets/151041603/6c91f145-11c5-4c11-a5ac-cd5087212272" width="300" />
+Ich habe mich für die IDE, Visual Studio Code entschieden, da sie eine von den besten Softwares ist und es hat auch eine kostenlose Version.
 
 ## Checkpoint
 

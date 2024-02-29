@@ -1,10 +1,10 @@
 # Java Basics
 
-<img src="https://github.com/ch-tbz-it/Stud/m319/-/raw/main/N1-JAVA_Basics/x_gitressourcen/ProgrLernen.jpg" width="200" />
+<img src="image.png" width="200" />
 
 ## Vom Programmtext zur Ausführung
 
-
+Ein Quellcode wird grundsätzlich entweder "kompiliert" oder "interpretiert"
 
 
 

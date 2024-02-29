@@ -1,6 +1,6 @@
 # Java Basics
 
-<img src="image.png" width="200" />
+<img width="500" alt="image" src="https://github.com/sladji10/SladjanMiljkovic_Dossier_M319/Bilder/image.png">
 
 ## Vom Programmtext zur Ausführung
 
